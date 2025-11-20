@@ -65,8 +65,10 @@ Donut Chart	Total Loan Applications, Funded Amount, Amount Received	Loan term di
 Bar Chart	Total Loan Applications, Funded Amount, Amount Received	Employee length analysis
 Bar Chart	Total Loan Applications, Funded Amount, Amount Received	Loan purpose breakdown
 Tree Map	Total Loan Applications, Funded Amount, Amount Received	Home ownership analysis
-Dashboard 3: Details
 
+<br>
+<br>
+Dashboard 3: Details
 Provides a holistic view of the loan portfolio for granular insights, including:
 
 Borrower profiles
