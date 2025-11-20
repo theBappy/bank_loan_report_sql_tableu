@@ -8,7 +8,8 @@ This project includes three dynamic dashboards created with Tableau and a backen
 
 <img width="621" height="395" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/c24b76ff-e994-4123-8088-c6ccf1012e32" />
 
-
+<br>
+<br>
 🎯 Problem Statement
 
 The objective of this project is to:
@@ -21,7 +22,8 @@ Distinguish between Good Loans (Fully Paid & Current) and Bad Loans (Charged Off
 
 Provide both summary insights and detailed analytics for informed decision-making.
 
-
+<br>
+<br>
 📊 Dashboard Details
 Dashboard 1: Summary
 
@@ -49,6 +51,9 @@ Loan Status Grid View:
 
 Categorizes loans by status with metrics such as Total Loan Applications, Funded Amount, Amount Received, Interest Rate, and DTI.
 
+
+
+<br>
 Dashboard 2: Overview
 
 Visualizes loan trends and distributions across multiple dimensions:
@@ -72,11 +77,15 @@ Loan status breakdowns
 
 Dynamic filtering and drill-down options
 
+
+<br>
+<br>
 🛠️ Tech Stack
 MS SQL Server	
 Tableau	
 
-
+<br>
+<br>
 Data Analytics	
 💡 Features
 
@@ -90,6 +99,8 @@ Comprehensive regional, term, purpose, employment, and home ownership analysis.
 
 Fully data-driven decision support for banks.
 
+<br>
+<br>
 📂 Data Source
 
 Database: MS SQL Server
@@ -98,6 +109,8 @@ Tables: Loan Applications, Loan Payments, Borrower Information
 
 Analytics Tools: Tableau for interactive dashboards
 
+<br>
+<br>
 📌 How to Use
 
 Connect Tableau to your MS SQL Server database.
